@@ -95,6 +95,6 @@ violence category was chosen
 
 # Authors:
 ```bash
-Authors: Hirakjyoti Medhi, Biswajit Bera, Ashutosh Kumar and Roshan Jha
-Email: hirak170802@gmail.com
+Authors: Roshan Jha, Biswajit Bera, Ashutosh Kumar and Hirakjyoti Medhi
+Email: roshankum123@gmail.com
 ```
