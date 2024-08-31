@@ -100,5 +100,5 @@ Email: roshankum123@gmail.com
 ```
 
 
-## PS: This is a group project that we did while participating in a Computer Vision Hackathon organised by SarasAI Institute. 
-## PPS: We won the Hackathon securing the FIRST POSITION!
+### PS: This is a group project that we did while participating in a Computer Vision Hackathon organised by SarasAI Institute. 
+### PPS: We won the Hackathon securing the FIRST POSITION!
